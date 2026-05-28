@@ -1,12 +1,6 @@
-- 👋 Hi, I’m BALAJI BERI.
-- 👀 I’m interested in Data Science.
-- 🌱 I’m currently learning DSA, ML and NLP.
-- 💞️ I’m looking for a full time role as Data Analyst or Data Scientist.
-- 
+# Hi there, I'm Balaji Beri 👋 
 
-# Hi there, I'm Balaji 👋 
-
-### 🚀 Data Analyst & Aspiring Senior Data Engineer
+### 🚀 Engineer - Data & AI
 Driven by a passion for transforming raw, fragmented data into high-performance enterprise assets. I specialize in building robust data pipelines, analyzing complex source systems, and developing optimized business logic within the Microsoft Azure and Databricks ecosystems. My career trajectory is laser-focused on designing ultra-scalable data lakehouses and mastering modern data engineering frameworks.
 
 ---
@@ -59,7 +53,6 @@ Driven by a passion for transforming raw, fragmented data into high-performance 
 Developed an end-to-end data pipeline infrastructure consolidating manufacturing data across disparate enterprise ERP systems into a unified storage layer.
 * **API Data Ingestion:** Engineered automated Python scripts to securely fetch operational data from external vendor APIs and stage them inside Azure Data Lake Storage (ADLS) Gen2.
 * **Source System Analysis:** Conducted deep SQL data profiling on legacy source systems to map varying data architectures into clean, unified Delta tables.
-* **Core Business Logic:** Designed and deployed robust database Stored Procedures handling heavy transformations for critical corporate domains: **Sales, Invoices, Purchases, and Inventory**.
 
 ### ⚙️ Performance Tuning & Lakehouse Architecture Playbook (Open Source)
 A deep-dive repository compiling optimal strategies for modern data platform maintenance.
