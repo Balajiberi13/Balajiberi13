@@ -2,8 +2,7 @@
 - 👀 I’m interested in Data Science.
 - 🌱 I’m currently learning DSA, ML and NLP.
 - 💞️ I’m looking for a full time role as Data Analyst or Data Scientist.
-- 📫 Reach me @7032581740  Mailto: balajiberi13@gmail.com
-- ⚡ Portfolio at https://balajiberi13.github.io/Portfolio_Lst/
+- 
 
 # Hi there, I'm Balaji 👋 
 
@@ -17,16 +16,20 @@ Driven by a passion for transforming raw, fragmented data into high-performance 
 <table>
   <tr>
     <td align="center" width="96">
-      <img src="https://user-images.githubusercontent.com/25181506/75963625-f3bf1680-5f09-11ea-96b6-96b99dd9d821.png" width="48" alt="SQL" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azuresqldatabase/azuresqldatabase-original.svg" width="48" alt="SQL" />
       <br /><b>SQL</b>
     </td>
     <td align="center" width="96">
-      <img src="https://user-images.githubusercontent.com/25181506/75963540-3d5b3180-5f06-11ea-9d94-37f69df2da7d.png" width="48" alt="Python" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" alt="Python" />
       <br /><b>Python</b>
     </td>
     <td align="center" width="96">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="48" alt="Azure" />
       <br /><b>Azure</b>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/databricks.svg" width="48" alt="Databricks" style="fill: #FF3621;" />
+      <br /><b>Databricks</b>
     </td>
     <td align="center" width="96">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="48" alt="C++" />
@@ -73,6 +76,8 @@ I am currently undertaking advanced training to step into **Senior Data Engineer
 
 ## 🤝 Connect With Me
 
-* **LinkedIn:** [Your LinkedIn Profile URL]
+* **LinkedIn:** https://www.linkedin.com/in/balaji-beri-00a291217/
 * **Email:** balajiberi13@gmail.com
-* **Portfolio:** [Your GitHub Pages Link]
+* **Mobile:** @7032581740
+* **Portfolio:** https://balajiberi13.github.io/Portfolio_Lst/
+
